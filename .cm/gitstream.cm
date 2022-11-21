@@ -48,7 +48,7 @@ automations:
       # such PRs to save reviewers time for such changes.
       # - action: approve@v1
 
-a
+
 calc:
   etr: {{ branch | estimatedReviewTime }}
 is:
